@@ -35,7 +35,7 @@ For more details regarding technical requirements, system architecture, and deta
 ## Visual Preview
 In this section, you can see the application interface and its responsive design.
 
-![Calculator Screens](poza4.jpeg)
-![Calculator Screens](poza3.jpeg)
-![Calculator Screens](poza2.jpeg)
-![Calculator Screens](poza1.jpeg)
+![Calculator Screens1](poza4.jpeg)
+![Calculator Screens2](poza3.jpeg)
+![Calculator Screens3](poza2.jpeg)
+![Calculator Screens4](poza1.jpeg)
