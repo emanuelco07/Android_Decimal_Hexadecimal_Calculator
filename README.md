@@ -30,4 +30,4 @@ This mobile application, developed in Kotlin, is designed to perform mathematica
 *   Structure: Clear separation of concerns between the main calculation logic (MainActivity), data management (HistoryData), and history visualization (HistoryActivity).
 
 ### Further Details
-For more details regarding technical requirements, system architecture, and detailed code explanations, please refer to the documentation in Romanian available in this repository (attached PDF file).
+For more details regarding technical requirements, system architecture, and detailed code explanations, please refer to the  [documentation](https://github.com/emanuelco07/Android_Decimal_Hexadecimal_Calculator/blob/main/Cosereanu_Emanuel_Calculator_decimal_hexadecimal.pdf) in Romanian available in this repository (attached PDF file).
