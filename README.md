@@ -31,3 +31,8 @@ This mobile application, developed in Kotlin, is designed to perform mathematica
 
 ### Further Details
 For more details regarding technical requirements, system architecture, and detailed code explanations, please refer to the  [documentation](https://github.com/emanuelco07/Android_Decimal_Hexadecimal_Calculator/blob/main/Cosereanu_Emanuel_Calculator_decimal_hexadecimal.pdf) in Romanian available in this repository (attached PDF file).
+
+## Visual Preview
+In this section, you can see the application interface and its responsive design.
+
+![Calculator Screens](poza1.jpeg)(poza2.jpeg)(poza3.jpeg)(poza4.jpeg)
